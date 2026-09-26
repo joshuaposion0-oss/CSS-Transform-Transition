@@ -1,5 +1,4 @@
-  
-        function setTransform(type) {
+   function setTransform(type) {
             const afterBox = document.getElementById("after");
 
             
